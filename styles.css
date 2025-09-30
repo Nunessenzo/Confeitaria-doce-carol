@@ -7,17 +7,6 @@
      border: none;
 }
 
-@media (max-width: 768px) {
-  .hero h1 {
-    font-size: 2rem; /* menor em tablet */
-  }
-}
-
-@media (max-width: 480px) {
-  .hero h1 {
-    font-size: 1.5rem; /* menor em celular */
-  }
-}
 
 html {
     scroll-behavior: smooth;
